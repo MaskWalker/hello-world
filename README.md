@@ -1,2 +1,2 @@
 # hello-world
-first
+this is my first python program
